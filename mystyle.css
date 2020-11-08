@@ -30,10 +30,10 @@ p{
 	width:95%;
 }
 ul {
-  list-style-type: none;
+  /*list-style-type: none;*/
   margin: 0;
   padding: 0;
-  width: 200px;
+  width: 500px;
   background-color: #f1f1f1;
 }
 
