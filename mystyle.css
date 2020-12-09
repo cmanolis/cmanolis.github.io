@@ -55,6 +55,7 @@ br {
 nav{
 float:left;}
 .sxedio{
+	float:left;
     top:130px;
     margin:auto;
     width:400px;
