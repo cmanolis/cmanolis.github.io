@@ -33,7 +33,7 @@ ul {
   /*list-style-type: none;*/
   margin: 0;
   padding: 0;
-  width: 500px;
+  width: 80%;
   background-color: #f1f1f1;
 }
 
@@ -53,22 +53,22 @@ br {
 	clear:both;
 }
 nav{
-float:left;}
+float:left;
+width:50%;}
 .sxedio{
 	float:left;
     top:130px;
     margin:auto;
-    width:400px;
+    width:50%;
     height:400px;
-    border:1px solid black;
+    border:1px solid red;
    }
   .dentro{
     position:relative;
     width:100%;
     top:80px;
     text-align: center;
-  //   border:1px solid red;
-  }
+    }
   .tree{
     color:green;
     font-size:220px;
@@ -130,7 +130,6 @@ float:left;}
   bottom:38px;
   }
   .christmas{
-  // border:1px solid black;
   position:relative;
   width:100%;
   font-family: 'Mountains of Christmas', cursive;
