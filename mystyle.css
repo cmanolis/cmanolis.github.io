@@ -52,4 +52,89 @@ li a:hover {
 br {
 	clear:both;
 }
-
+nav{
+float:left;}
+.sxedio{
+    top:130px;
+    margin:auto;
+    width:400px;
+    height:400px;
+    border:1px solid black;
+   }
+  .dentro{
+    position:relative;
+    width:100%;
+    top:80px;
+    text-align: center;
+  //   border:1px solid red;
+  }
+  .tree{
+    color:green;
+    font-size:220px;
+    }
+  .bell, .berry, .cane, .star, .snowman, .snowflake, .mappin1, .mappin2{
+    position:absolute;
+    color:red;
+    font-size:25px;}
+  .bell1{
+    left:136px;
+    top:60px;
+  }
+  .bell2{
+    left:120px;
+    top:110px;
+  }
+  .berry1{
+    left:180px;
+    top:90px;
+  }
+  .berry2{
+  left:160px;
+    top:130px;
+    }
+  .cane1{
+    left:235px;
+    top:50px;
+    transform: rotate(-25deg);
+  }
+  .cane2{
+    left:245px;
+    top:110px;
+    transform: rotate(-40deg);
+  }
+  .star{
+  color:yellow;
+  left:180px;
+  top:-20px;
+  font-size:40px;
+  }
+  .snowman{
+  color:white;
+  font-size:35px;
+  left:183px;
+  bottom:38px;}
+  .snowflake{
+  color:white;
+  left:220px;
+  top:120px;
+  }
+  .mappin1{
+  transform:rotate(180deg);
+  left:115px;
+  bottom:38px;
+  }
+  .mappin2{
+  transform:rotate(180deg);
+  left:270px;
+  bottom:38px;
+  }
+  .christmas{
+  // border:1px solid black;
+  position:relative;
+  width:100%;
+  font-family: 'Mountains of Christmas', cursive;
+  color:red;
+  font-size:15px;
+  text-align:center;
+  top:45px;
+  }
