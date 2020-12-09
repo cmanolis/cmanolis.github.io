@@ -16,16 +16,13 @@ h1{
 h2{
 	font-size:27px;
 	color:#ff8494;
-	
-}
+	}
 h3{
 	font-size:25px;
 	color:orange;
-	
-}
+	}
 
-p{
-	padding-top:5px;
+p{	padding-top:5px;
 	line-height:1.5em;
 	width:95%;
 }
@@ -54,7 +51,8 @@ br {
 }
 nav{
 float:left;
-width:44%;}
+width:44%;
+}
 .sxedio{
 	float:left;
     top:130px;
